@@ -1,4 +1,4 @@
-## Rock-Paper-Scissors Simulation
+# Rock-Paper-Scissors Simulation
 
 A Python-based Rock-Paper-Scissors (RPS) simulation framework that allows different strategies to play against each other over thousands of rounds. The program tracks move history, player statistics, and overall match results.
 
@@ -26,6 +26,6 @@ A Python-based Rock-Paper-Scissors (RPS) simulation framework that allows differ
 
   The test() function creates 5 players with different strategies and simulates 1,000,000 (adjustable) rounds of play.
 
-# Author
+**Author**
 
   John Ryan – August 17, 2025
